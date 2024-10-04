@@ -1,4 +1,10 @@
 Hi
 This is manikanta
+<<<<<<< HEAD
+=======
+ibm
+2025
+2026
+>>>>>>> 0fb871b (modified the local file with remote file)
 2027
 2028
